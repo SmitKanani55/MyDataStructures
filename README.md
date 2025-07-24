@@ -27,13 +27,35 @@ This project demonstrates object-oriented programming, custom memory handling, a
 
 ## 🧱 01_MyString
 
-A custom class similar to `std::string`, with:
+This folder contains a **custom implementation of the `std::string` class in C++**, named `MyString`.
 
-- Dynamic memory allocation
-- Constructor overloading
-- Copy constructor and assignment operator (deep copy)
-- Operator overloading (`+`, `=`, `==`)
-- String length, concatenation, comparison
+It is built from scratch to mimic the core features of C++ standard strings, helping beginners understand how string classes manage memory, copy operations, and operator overloading internally.
+
+---
+
+## 🔧 Features
+
+- Constructor (default, parameterized, copy, move)
+- Destructor for proper memory cleanup
+- Operator Overloading:
+  - `=` (assignment)
+  - `+` (concatenation)
+  - `==` (equality check)
+  - `[]` (index access)
+  - `<<` and `>>` (stream input/output)
+- Length tracking
+- Manual memory management using dynamic allocation
+- Deep copy and move semantics
+
+---
+
+## 📁 Files
+
+- `MyString.h` – Class declaration and inline methods
+- `MyString.cpp` – Full function definitions
+- `main.cpp` – Driver program to test all functionalities
+
+---
 
 
 
