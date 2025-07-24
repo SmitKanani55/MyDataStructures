@@ -1,0 +1,9 @@
+# Ignore object files
+*.o
+
+# Ignore binaries
+mystack
+program
+
+# Ignore macOS system files
+.DS_Store 
