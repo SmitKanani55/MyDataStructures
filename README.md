@@ -37,7 +37,7 @@ A custom class similar to `std::string`, with:
 
 
 
-## 🧱 02_MyLinkedList 🔗
+## 🧱 02_MyLinkedList 
 
 This folder contains a **singly linked list** implementation in C++.
 
@@ -58,10 +58,8 @@ This folder contains a **singly linked list** implementation in C++.
 
 ---
 
-## 🧱 `03_MyStack/README.md`
 
-```markdown
-# 03_MyStack 🥞
+## 🧱 03_MyStack 
 
 This folder contains two stack implementations in C++:
 - Using a dynamic array
@@ -85,10 +83,9 @@ This folder contains two stack implementations in C++:
 
 ---
 
-## 🧱 `04_MyQueue/README.md`
 
-```markdown
-# 04_MyQueue 🔁
+
+## 🧱 04_MyQueue 
 
 This folder contains a **circular queue** implementation in C++ using an array.
 
