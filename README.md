@@ -129,12 +129,5 @@ This folder contains a **circular queue** implementation in C++ using an array.
 
 ---
 
-### ✅ Final Step: Add and Push to GitHub
 
-Place each of these `README.md` files inside their respective folders and commit them:
-
-```bash
-git add 02_MyLinkedList/README.md 03_MyStack/README.md 04_MyQueue/README.md
-git commit -m "Added detailed README files for LinkedList, Stack, and Queue"
-git push
 
