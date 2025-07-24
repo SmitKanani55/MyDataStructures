@@ -1,3 +1,40 @@
+🔹 Overview
+MyDataStructures is a personal C++ project that implements core data structures — MyString, MyLinkedList, MyStack, and MyQueue — completely from scratch using dynamic memory management and object-oriented design principles. This repository showcases a strong grasp of system-level C++ including memory handling, class construction, and STL-like architecture.
+
+Developed as part of a deep dive into data structures and low-level programming, the goal is to manually build the foundation of structures commonly abstracted by the STL, gaining full understanding of their internal workings.
+
+🔹 Key Features
+✅ Dynamic Memory Allocation using new and delete
+✅ Operator Overloading (in MyString) for =, +, ==, <<, >>, and []
+✅ Custom Constructors/Destructors in every class
+✅ Copy/Move Semantics (deep copy, move constructor & move assignment in MyString)
+✅ Linked List-Based Stack & Queue implementations
+✅ Modular Codebase with clear header and implementation separation
+✅ Traversal, Insertion, Deletion, Search operations (in MyLinkedList)
+✅ Memory-safe Design – No STL used, manual resource handling
+
+🔹 Ideal For
+🎓 Students learning core data structures and object-oriented programming in C++
+💡 Developers preparing for system-level or embedded interviews
+🧠 Anyone who wants to understand how STL structures like std::string, std::stack, and std::queue work under the hood
+🧪 Beginners exploring real-world use of classes, pointers, and memory management
+
+🔹 Learning Outcomes
+By studying or building this project, you will:
+
+✨ Master class-based design in C++
+
+🧱 Build reusable, testable code without relying on STL
+
+🧠 Understand deep vs. shallow copies and memory lifecycle
+
+🧮 Implement core algorithms like insertion, deletion, search manually
+
+🧹 Avoid common bugs like memory leaks, dangling pointers, and shallow copies
+
+🛠️ Develop STL-like behavior with full control over object memory and lifecycle
+
+
 # MyDataStructures
 
 A clean, beginner-friendly C++ implementation of essential **data structures** — created from scratch without using STL equivalents.  
